@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9c8faae8.css",
+    "main.js": "/static/js/main.bf6c70e2.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/wallst.png": "/static/media/wallst.63643bf68504fcbce3aa.png",
+    "static/media/theweekend.png": "/static/media/theweekend.a1c00258c7afc015d419.png",
+    "static/media/youngthug.png": "/static/media/youngthug.ee199586a20e5088d703.png",
+    "static/media/wasted.png": "/static/media/wasted.61bc81410e23a42c846e.png",
+    "static/media/weekend.png": "/static/media/weekend.9a5d5fddb6ab428d2379.png",
+    "static/media/clubhouse.png": "/static/media/clubhouse.810e65e3e55ac1892d08.png",
+    "static/media/elonmusk.png": "/static/media/elonmusk.772431e6488af45fa177.png",
+    "static/media/tigerwoods.png": "/static/media/tigerwoods.5bc122927523b4d73254.png",
+    "static/media/goat.png": "/static/media/goat.2d457f5c5018dfebec49.png",
+    "static/media/homer.png": "/static/media/homer.fbad181935f11ca9a0d1.png",
+    "static/media/ss-logo.png": "/static/media/ss-logo.0a0e7598ba5344c5b38c.png",
+    "index.html": "/index.html",
+    "main.9c8faae8.css.map": "/static/css/main.9c8faae8.css.map",
+    "main.bf6c70e2.js.map": "/static/js/main.bf6c70e2.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c8faae8.css",
+    "static/js/main.bf6c70e2.js"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.68b5f28c.css",
+    "main.js": "/static/js/main.7be97c80.js",
+    "static/js/787.17365ed4.chunk.js": "/static/js/787.17365ed4.chunk.js",
+    "static/media/beerguy.png": "/static/media/beerguy.3b9d34665e0f92926651.png",
+    "index.html": "/index.html",
+    "main.68b5f28c.css.map": "/static/css/main.68b5f28c.css.map",
+    "main.7be97c80.js.map": "/static/js/main.7be97c80.js.map",
+    "787.17365ed4.chunk.js.map": "/static/js/787.17365ed4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68b5f28c.css",
+    "static/js/main.7be97c80.js"
+  ]
+}
