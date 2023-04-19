@@ -1,5 +1,9 @@
 # Sketchsauce
 
+### Kort om appen
+- Hjemmeside for sketchsauce som er en gruppe som lager kunst med en humoristisk vri.
+- Veldig enkel side, der bildene til gruppa blir vist fram.
+
 ### Hva jeg har lært
 - Å lage ett responsivt design for en kunde.
 - Fulgt malen kunden ville ha, og jobbet tett med kunde for å få laget ett skreddersydd produkt.
