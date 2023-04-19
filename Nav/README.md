@@ -1,17 +1,15 @@
 # Nav dagpengekalkulator
 
 ### Kort om appen
-- Mitt aller første React prosjekt.
-- Mye rotete og overfødig kode.
-- Appen tar imot spørsmål fra alle som blir med i spillet fra sin enhet, når spillet starter vil det bli kastet ut tilfeldige sprøsmål fra spillet som har blitt laget.
+- Nav dagpengekalkulator skrivebords applikasjon som programmeringsoppgave fra Nav.
+- Skrevet i Java, med scenebuilder biblioteket.
 
 ### Hva jeg har lært
-- Startet å lære meg hvordan React fungerer med komponenter.
-- Også fått en smakebit på hvordan tailwindcss fungerer, men fortsatt litt å jobbe med.
+- Å lage ett skreddersydd produkt til en kunde, ut ifra spesifikasjoner de ga meg.
+- Lage en skrivebordsapplikasjon i java.
 
 
 ### Hva skal gjøres annerledes neste gang
-- Planlegge hvordan strukturen til mapper skal være, ble rotete.
-- Planlegge mer om hvordan appen skal se ut og hvor mange sider som faktisk trengs.
-- Bruke mer komponenter og gjenbruke kode mer.
+- Ikke lage objekt som kalkulator, men heller en fil med flere metoder som kan brukes for å håndtere metodene.
+- Bruke mere eksterne bibliotek som Math.
 
