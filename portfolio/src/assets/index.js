@@ -36,6 +36,7 @@ import drikkelek from "./drikkelek.png";
 import sketchsauce from "./sketchsauce.png";
 import exchangebuddy from "./exchange-buddy.png";
 import laddergame from "./laddergame.png";
+import ohngpt from "./ohngpt.png";
 
 export {
   logo,
@@ -71,5 +72,6 @@ export {
   drikkelek,
   sketchsauce,
   exchangebuddy,
-  laddergame
+  laddergame,
+  ohngpt,
 };

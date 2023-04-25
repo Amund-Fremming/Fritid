@@ -3,8 +3,8 @@ import React from "react";
 const FeedbackForm: React.FC = () => {
     return(
         <>
-            <div className="flex justify-center items-center mt-[200px]">
-                <div className="flex items-center flex-col bg-ss-house rounded-md w-[500px]">
+            <div className="flex justify-center items-center mt-[200px] w-full">
+                <div className="flex items-center flex-col bg-ss-house rounded-md sm:w-[500px] sm:ml-0 ml-14">
                     <h2 className="font-marker text-3xl mt-8">Feedback</h2>
                     <p className="p-10 font-marker m-2">Hvis du er her har du sikkert sett innlegget vårt på Instagram. Som nevnt, skriv i prioritert rekkefølge fra 1-3 de maleriene dere liker best, og skriv deretter Instagram profilen din under. Dette trenger vi for å sjekke hvem det er som har sendt inn feedback. </p>
                     <p className="font-marker m-2">Hvilke malerier liker du best?</p>

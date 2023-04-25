@@ -28,13 +28,13 @@ const Text = ({text, header}: TextProps) => {
     return(
         <motion.div
             ref={ref}
-            className="text-xl w-[400px]"
+            className="text-xl w-[400px] flex flex-col"
             variants={boxVariant}
             initial="hidden"
             animate={control}
         >
-            <div className="text-4xl font-marker text-center">"{header}"</div><br/>
-            <div className="text-left m-5 text-[18px] font-marker font-thin">{text}</div>
+            <div className="sm:text-4xl text-xl font-marker text-center">"{header}"</div>
+            <div className="text-left m-2 sm:text-[18px] text-[10px] font-marker font-thin">{text}</div>
         </motion.div>
     );
 }

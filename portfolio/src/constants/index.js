@@ -30,6 +30,7 @@ import {
     sketchsauce,
     exchangebuddy,
     laddergame,
+    ohngpt,
   } from "../assets";
   
   export const navLinks = [
@@ -247,11 +248,37 @@ import {
         },
       ],
       image: exchangebuddy,
-      source_code_link: "!!",
-      live_demo_link: "!!",
+      source_code_link: "https://github.com/Amund-Fremming/Skole/tree/main/exchange-buddy",
+      live_demo_link: "https://youtu.be/DHf8ubIZEZo",
     },
     {
-      name: "Stigespill Backend",
+      name: "OhnGPT",
+      description:
+        "Kodeoppgave for Oslo Nye Høyskole. En applikasjon som skal lage ett sammendrag av en tekst, gi oppgaver til teksten og formattere oppgavene i rett JSON format.",
+      tags: [
+        {
+          name: "react",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "javascript",
+          color: "green-text-gradient",
+        },
+        {
+          name: "tailwind",
+          color: "pink-text-gradient",
+        },
+        {
+          name: "openai api",
+          color: "white",
+        },
+      ],
+      image: ohngpt,
+      source_code_link: "https://github.com/Amund-Fremming/OhnGPT",
+      live_demo_link: "https://youtu.be/zdC6Bo518Lg",
+    },
+    {
+      name: "Stigespill i terminal",
       description:
         "Min første prosjektoppgave på skolen. Prosjektet gitt ut på å planlegge og lage ett stigespill steg for steg som det ville bli gjort i en stor bedrift.",
       tags: [

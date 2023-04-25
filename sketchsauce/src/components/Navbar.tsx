@@ -15,10 +15,10 @@ const Navbar: React.FC = (props) => {
     return(
         <>
             <div className='shadow-md w-full top-0 fixed left-0 z-50'>
-                <div id="navbar" className='md:flex items-center justify-between bg-ss-house py-4 md:px-10 px-7'>
+                <div id="navbar" className='md:flex items-center justify-between bg-ss-house py-4 md:px-10 px-7 h-20'>
                     <div className='cursor-pointer flex items-center ml-8'>
                         <NavLink to="/">
-                            <img alt='logo' className='w-20 h-20' src={require("../images/ss-logo.png")} />
+                            <img alt='logo' className='w-16 h-16 sm:hidden=true' src={require("../images/ss-logo.png")} />
                         </NavLink>
                     </div>
                     <div onClick={() => setOpen(!open)}>

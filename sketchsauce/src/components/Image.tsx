@@ -29,7 +29,7 @@ const Image = ({ image }: ImageProps) => {
       <>
           <motion.div
             ref={ref}
-            className="w-[500px] bg-violet-400 m-4 border-4 border-ss-house shadow-xl"
+            className="w-[500px] bg-violet-400 m-4 border-4 border-ss-house shadow-xl mt-10"
             variants={boxVariant}
             initial="hidden"
             animate={control}

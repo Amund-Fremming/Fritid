@@ -14,7 +14,7 @@ const SnapSection: React.FC = () => {
                     data.map(element => {
                         return(
                             <div className="snap-start bg-white w-screen h-screen flex items-center justify-center text-8xl">
-                                <div className="flex flex-wrap items-center justify-center w-full">
+                                <div className="flex flex-wrap items-center justify-center sm:w-full w-10/12">
                                     <Image image={element.image}/>
                                     <Text header={element.header} text={element.text}/>
                                 </div>

@@ -8,7 +8,7 @@ const Feedback: React.FC = () => {
         <>
             <Navbar />
             <FeedbackForm />
-            <div className="mt-32">
+            <div className="mt-12">
 
             </div>
             <Footer />
