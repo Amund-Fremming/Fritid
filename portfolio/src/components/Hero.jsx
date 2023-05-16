@@ -18,10 +18,10 @@ const Hero = () => {
         <div>
           <h1 className={`${styles.heroHeadText}, text-white`}>Hei, jeg er <span className='text-[#05F4C9]'>Amund</span></h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100 flex hover:text-neokill`}>
-            Jeg utvikler <span className='flex'>&nbsp;
+            Jeg utvikler med <span className='flex'>&nbsp;
             <Typewriter 
               options = {{
-                  strings: ["web applikasjoner", "backend systemer", "full-stack"],
+                  strings: ["backend", "web-applikasjoner"],
                   autoStart: true,
                   loop: true,
                   cursor: "_"
